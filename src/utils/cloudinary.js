@@ -1,7 +1,7 @@
 import fs from "fs";
-
 import {v2 as cloudinary} from 'cloudinary';
-          
+
+
 cloudinary.config({ 
   cloud_name: 'ddefovwve', 
   api_key: '222974652297163', 
